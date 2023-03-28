@@ -1,6 +1,6 @@
 - 🍉 Hello friends, I’m @sorenrichenberg
 - 🎧 I’m interested in audio DSP, compiler design, virtual machines, and amplifiers
-- 🐢 I’m currently learning about language parsing, database systems, image classification, and circuit analysis
+- 🐢 I’m currently learning about bytecode generation, react apps, streaming APIs, and circuit analysis
 - 📫 You can reach me at richenbe at sonoma dot edu
 
 <!---

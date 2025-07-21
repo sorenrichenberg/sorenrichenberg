@@ -1,5 +1,5 @@
 - 🍉 Hello friends, I’m Soren Richenberg
-- 💾 I'm currently working as a Data Recovery Engineer; finding solutions for logical failures and developing automation for recovery workflows
+- 💾 I'm working as a Data Recovery Engineer; finding solutions for logical failures and developing automation for recovery workflows
 - 🎧 I’m interested in all things data, audio DSP, compiler design, virtual machines, and amplifiers
 - 🐢 I’m currently learning about real time embedded programming, raw filesystem parsers, and immediate mode GUIs
 - 📫 You can reach me at soren.s.richenberg at gmail dot com
